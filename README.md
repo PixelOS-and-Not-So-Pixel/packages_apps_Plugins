@@ -7,8 +7,6 @@ Then, compile the following modules:
 ```
 AospPanel
 CompactPanel
-OreoPanel
-TiledPanel
 ```
 
 **Please refrain from altering packagenames/classpaths and Copyright headers**
